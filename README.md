@@ -13,7 +13,7 @@ An augmented reality app built with Unity and Vuforia that displays an interacti
 - Android or iOS device with camera
 
 ## Setup
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `git clone https://github.com/mitakawe123/3DTech.git`
 2. Open in Unity
 3. Add your Vuforia license key in `Window > Vuforia Configuration`
 4. Print or display the marker images from the `Assets/Markers/` folder
